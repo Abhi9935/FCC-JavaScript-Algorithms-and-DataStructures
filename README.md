@@ -1,7 +1,7 @@
 # FreeCodeCamp : JavaScript-Algorithms-and-DataStructures
 ###### author: [**Abhinav Kushwaha (Baba Albus)**](http://babaalbus.com/ "http://babaalbus.com/")
 ---
-1. [Basic Algorithm Scripting](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/tree/master/Basic_Algorithm_Scripting)</br>
+## 1. [Basic Algorithm Scripting](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/tree/master/Basic_Algorithm_Scripting)<img align="right" width="250" height="250" src="https://s3.amazonaws.com/freecodecamp/curriculum-diagram-full.jpg"></br>
   1.1 [Convert Celsius to Fahrenheit](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Convert_Celsius_to_Fahrenheit.js)</br>
   1.2 [Reverse a String](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Reverse_a_String.js)</br>
   1.3 [Factorialize a Number](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Factorialize_a_Number.js)</br>
