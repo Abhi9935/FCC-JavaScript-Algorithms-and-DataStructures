@@ -5,6 +5,7 @@
   1.1 [Convert Celsius to Fahrenheit](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Convert_Celsius_to_Fahrenheit.js)</br>
   1.2 [Reverse a String](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Reverse_a_String.js)</br>
   1.3 [Factorialize a Number](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Factorialize_a_Number.js)</br>
+  1.4 [Find the Longest Word in a String](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Find_the_Longest_Word_in_a_String.js)</br>
   1.4 [Boo who](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Boo_who.js)</br>
   1.5 [Title Case a Sentence](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Title_Case_a_Sentence.js)</br>
   1.6 [Slice and Splice](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Slice_and_Splice.js)</br>
