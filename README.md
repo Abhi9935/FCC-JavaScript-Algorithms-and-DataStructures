@@ -7,6 +7,7 @@
   1.3 [Factorialize a Number](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Factorialize_a_Number.js)</br>
   1.4 [Find the Longest Word in a String](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Find_the_Longest_Word_in_a_String.js)</br>
   1.5 [Return Largest Numbers in Arrays](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Return_Largest_Numbers_in_Arrays.js)</br>
+  1.6 [Confirm the Ending](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Confirm_the_Ending.js)</br>
   1.5 [Boo who](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Boo_who.js)</br>
   1.6 [Title Case a Sentence](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Title_Case_a_Sentence.js)</br>
   1.7 [Slice and Splice](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Slice_and_Splice.js)</br>
