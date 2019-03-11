@@ -7,6 +7,7 @@
   1.3 [Accessing Object Properties with Bracket Notation](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Accessing_Object_Properties_with_Bracket_Notation.js)</br>
   1.4 [Accessing Object Properties with Variables](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Accessing_Object_Properties_with_Variables.js)</br>
   1.5 [Updating Object Properties](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Updating_Object_Properties.js)</br>
+  1.6 [Add New Properties to a JavaScript Object](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Add_New_Properties_to_a_JavaScript_Object.js)</br>
 ## 2. [Basic Algorithm Scripting](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/tree/master/Basic_Algorithm_Scripting)<img align="right" width="150" height="150" src="https://s3.amazonaws.com/freecodecamp/curriculum-diagram-full.jpg"></br>
   1.1 [Convert Celsius to Fahrenheit](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Convert_Celsius_to_Fahrenheit.js)</br>
   1.2 [Reverse a String](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Reverse_a_String.js)</br>
