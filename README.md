@@ -1,7 +1,7 @@
 # FreeCodeCamp : JavaScript-Algorithms-and-DataStructures
-###### author: [**Abhinav Kushwaha (Baba Albus)**](http://babaalbus.com/ "http://babaalbus.com/")
+###### author: [**Abhinav Kushwaha (Baba Albus)**](http://babaalbus.com/ "http://babaalbus.com/")<img align="right" width="150" height="150" src="https://s3.amazonaws.com/freecodecamp/curriculum-diagram-full.jpg">
 ---
-## 1. [Basic JavaScript](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/tree/master/Basic%20JavaScript)<img align="right" width="150" height="150" src="https://s3.amazonaws.com/freecodecamp/curriculum-diagram-full.jpg"></br>
+## 1. [Basic JavaScript](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/tree/master/Basic%20JavaScript)</br>
   1.1 [Build JavaScript Objects](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Build_JavaScript_Objects.js)</br>
   1.2 [Accessing Object Properties with Dot Notation](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Accessing_Object_Properties_with_Dot_Notation.js)</br>
   1.3 [Accessing Object Properties with Bracket Notation](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Accessing_Object_Properties_with_Bracket_Notation.js)</br>
