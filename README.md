@@ -12,6 +12,7 @@
   1.8 [Using Objects for Lookups](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Using_Objects_for_Lookups.js)</br>
   1.9 [Testing Objects for Properties](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Testing_Objects_for_Properties.js)</br>
   1.10 [Manipulating Complex Objects](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Manipulating_Complex_Objects.js)</br>
+  1.11 [Accessing Nested Objects](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Accessing_Nested_Objects.js)</br>
 ## 2. [Basic Algorithm Scripting](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/tree/master/Basic_Algorithm_Scripting)</br>
   2.1 [Convert Celsius to Fahrenheit](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Convert_Celsius_to_Fahrenheit.js)</br>
   2.2 [Reverse a String](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Reverse_a_String.js)</br>
