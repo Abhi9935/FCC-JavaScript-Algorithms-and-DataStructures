@@ -48,13 +48,13 @@
   3.7 [Repeat a String Repeat a String](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Repeat_a_String_Repeat_a_String.js)</br>
   3.8 [Truncate a String]()
   3.9 [Finders Keepers]()
-  3.8 [Boo who](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Boo_who.js)</br>
-  3.9 [Title Case a Sentence](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Title_Case_a_Sentence.js)</br>
-  3.10 [Slice and Splice](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Slice_and_Splice.js)</br>
-  3.11 [Falsy Bouncer](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Falsy_Bouncer.js)</br>
-  3.12 [Where do I Belong](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Where_do_I_Belong.js)</br>
-  3.13 [Mutations](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Mutations.js)</br>
-  3.14 [Chunky Monkey](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Chunky_Monkey.js)</br>
+  3.10 [Boo who](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Boo_who.js)</br>
+  3.11 [Title Case a Sentence](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Title_Case_a_Sentence.js)</br>
+  3.12 [Slice and Splice](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Slice_and_Splice.js)</br>
+  3.13 [Falsy Bouncer](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Falsy_Bouncer.js)</br>
+  3.14 [Where do I Belong](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Where_do_I_Belong.js)</br>
+  3.15 [Mutations](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Mutations.js)</br>
+  3.16 [Chunky Monkey](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Chunky_Monkey.js)</br>
  
  ## 4. [Regular Expressions](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/tree/master/Regular%20Expressions)</br>
  4.1 [Using the Test Method](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Regular%20Expressions/Regular_Expressions_Using_the_Test_Method.js)</br>
