@@ -47,6 +47,7 @@
   3.6 [Confirm the Ending](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Confirm_the_Ending.js)</br>
   3.7 [Repeat a String Repeat a String](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Repeat_a_String_Repeat_a_String.js)</br>
   3.8 [Truncate a String]()
+  3.9 [Finders Keepers]()
   3.8 [Boo who](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Boo_who.js)</br>
   3.9 [Title Case a Sentence](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Title_Case_a_Sentence.js)</br>
   3.10 [Slice and Splice](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Slice_and_Splice.js)</br>
