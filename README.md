@@ -15,6 +15,8 @@
   1.11 [Accessing Nested Objects](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Accessing_Nested_Objects.js)</br>
   1.12 [Accessing Nested Arrays](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Accessing_Nested_Arrays.js)</br>
 ## 2. [ES6](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/tree/master/ES6)</br>
+   2.1 [Explore Differences Between the var and let Keywords](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/ES6/ES6_Explore_Differences_Between_the_var_and_let_Keywords.js)</br>
+   
 ## 3. [Basic Algorithm Scripting](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/tree/master/Basic_Algorithm_Scripting)</br>
   2.1 [Convert Celsius to Fahrenheit](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Convert_Celsius_to_Fahrenheit.js)</br>
   2.2 [Reverse a String](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Reverse_a_String.js)</br>
