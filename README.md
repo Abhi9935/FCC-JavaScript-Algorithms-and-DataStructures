@@ -22,6 +22,7 @@
    2.5 [Prevent Object Mutation](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/ES6/ES6_Prevent_Object_Mutation.js)</br>
    2.6 [Use Arrow Functions to Write Concise Anonymous Functions](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/ES6/ES6_Use_Arrow_Functions_to_Write_Concise_Anonymous_Functions.js)</br>
    2.7 [Write Arrow Functions with Parameters](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/ES6/ES6_Write_Arrow_Functions_with_Parameters.js)</br>
+   2.8 [Write Higher Order Arrow Functions](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/ES6/ES6_Write_Higher_Order_Arrow_Functions.js)</br>
    
 ## 3. [Basic Algorithm Scripting](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/tree/master/Basic_Algorithm_Scripting)</br>
   3.1 [Convert Celsius to Fahrenheit](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Convert_Celsius_to_Fahrenheit.js)</br>
