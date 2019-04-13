@@ -20,6 +20,7 @@
    2.3 [Declare a Read-Only Variable with the const Keyword](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/ES6/ES6_Declare_a_Read-Only_Variable_with_the_const_Keyword.js)</br>
    2.4 [Mutate an Array Declared with const](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/ES6/ES6_Mutate_an_Array_Declared_with_const.js)</br>
    2.5 [Prevent Object Mutation](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/ES6/ES6_Prevent_Object_Mutation.js)</br>
+   2.6 [Use Arrow Functions to Write Concise Anonymous Functions](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/ES6/ES6_Use_Arrow_Functions_to_Write_Concise_Anonymous_Functions.js)</br>
    
 ## 3. [Basic Algorithm Scripting](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/tree/master/Basic_Algorithm_Scripting)</br>
   3.1 [Convert Celsius to Fahrenheit](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic_Algorithm_Scripting/Basic_Algorithm_Scripting_Convert_Celsius_to_Fahrenheit.js)</br>
