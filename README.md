@@ -17,6 +17,7 @@
   1.13 [Record Collection](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Record_Collection.js)</br>
   1.14 [Iterate with JavaScript While Loops](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Iterate_with_JavaScript_While_Loops.js)</br>
   1.15 [Iterate with JavaScript For Loops](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Iterate_with_JavaScript_For_Loops.js)</br>
+  1.16 [Iterate Odd Numbers With a For Loop](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Iterate_Odd_Numbers_With_a_For_Loop.js)</br>
 ## 2. [ES6](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/tree/master/ES6)</br>
    2.1 [Explore Differences Between the var and let Keywords](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/ES6/ES6_Explore_Differences_Between_the_var_and_let_Keywords.js)</br>
    2.2 [Compare Scopes of the var and let Keywords](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/ES6/ES6_Compare_Scopes_of_the_var_and_let_Keywords.js)</br>
