@@ -23,6 +23,7 @@
   1.19 [Nesting For Loops](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Nesting_For_Loops.js)</br>
   1.20 [Iterate with JavaScript Do...While Loops](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Iterate_with_JavaScript_Do...While_Loops.js)</br>
   1.21 [Profile Lookup](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Profile_Lookup.js)</br>
+  1.22 [Generate Random Fractions with JavaScript](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Generate_Random_Fractions_with_JavaScript.js)</br>
   
 ## 2. [ES6](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/tree/master/ES6)</br>
    2.1 [Explore Differences Between the var and let Keywords](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/ES6/ES6_Explore_Differences_Between_the_var_and_let_Keywords.js)</br>
