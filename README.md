@@ -21,6 +21,8 @@
   1.17 [Count Backwards With a For Loop](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Count_Backwards_With_a_For_Loop.js)</br>
   1.18 [Iterate Through an Array with a For Loop](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Iterate_Through_an_Array_with_a_For_Loop.js)</br>
   1.19 [Nesting For Loops](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Nesting_For_Loops.js)</br>
+  1.20 [Iterate with JavaScript Do...While Loops](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Basic%20JavaScript/Basic_JavaScript_Iterate_with_JavaScript_Do...While_Loops.js)</br>
+ 
   
 ## 2. [ES6](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/tree/master/ES6)</br>
    2.1 [Explore Differences Between the var and let Keywords](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/ES6/ES6_Explore_Differences_Between_the_var_and_let_Keywords.js)</br>
