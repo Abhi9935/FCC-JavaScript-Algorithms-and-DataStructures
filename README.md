@@ -58,4 +58,5 @@
  4.1 [Using the Test Method](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Regular%20Expressions/Regular_Expressions_Using_the_Test_Method.js)</br>
  4.2 [Match Literal Strings](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Regular%20Expressions/Regular_Expressions_Match_Literal_Strings.js)</br>
  4.3 [Match a Literal String with Different Possibilities](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Regular%20Expressions/Regular_Expressions_Match_a_Literal_String_with_Different_Possibilities.js)</br>
+ 4.4 [Ignore Case While Matching](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Regular%20Expressions/Regular_Expressions_Ignore_Case_While_Matching.js)</br>
  
