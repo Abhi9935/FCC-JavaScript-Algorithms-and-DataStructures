@@ -65,4 +65,5 @@
  4.15 [Find One or More Criminals in a Hunt](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Regular%20Expressions/Regular_Expressions_Find_One_or_More_Criminals_in_a_Hunt.js)</br>
  4.16 [Match Beginning String Patterns](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Regular%20Expressions/Regular_Expressions_Match_Beginning_String_Patterns.js)</br>
  4.17 [Match Ending String Patterns](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Regular%20Expressions/Regular_Expressions_Match_Ending_String_Patterns.js)</br>
+ 4.18 [Match All Letters and Numbers](https://github.com/Abhi9935/FCC-JavaScript-Algorithms-and-DataStructures/blob/master/Regular%20Expressions/Regular_Expressions_Match_All_Letters_and_Numbers.js)</br>
  
